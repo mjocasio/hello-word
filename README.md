@@ -1,3 +1,2 @@
 # HHS -DFAS Bridge System
-Intro to GitHub
-Hi, I am learning how to use GitHub workgflow
+Description communication end-point between HHS and DFAS to request payroll changed.
